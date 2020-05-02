@@ -5,4 +5,4 @@
 2. 增加scrollview子区间选中功能，类似于ios上日历选择组件
 
 ![ScrollView](./img/scrollview.png)
-[预览链接](./build/web-mobile/index.html?scene=ScrollView)
+[预览链接](https://dengxiaochun.github.io/CocosCreatorExtra/build/web-mobile/index.html?scene=ScrollView)
